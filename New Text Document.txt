@@ -1,0 +1,28 @@
+
+
+    font-family: 'Poppins', sans-serif;
+
+font-family: 'Open Sans', sans-serif;
+
+
+
+
+
+
+
+
+color: #35404e;
+
+color: #C43D23;
+
+
+
+
+
+
+
+    transition: all linear .2s;
+    -webkit-transition: all linear .2s;
+    -moz-transition: all linear .2s;
+    -ms-transition: all linear .2s;
+    -o-transition: all linear .2s;
